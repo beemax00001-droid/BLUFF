@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">FocusGuard</string>
-    <string name="accessibility_description">Enforces active FocusGuard app restrictions.</string>
-</resources>
